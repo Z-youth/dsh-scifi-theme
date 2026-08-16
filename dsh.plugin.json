@@ -1,0 +1,7 @@
+{
+  "name": "dsh-scifi-theme",
+  "description": "Sci-Fi Glass holographic theme for the DeepSeek Harness web UI",
+  "version": "0.1.0",
+  "entry": { "name": "dsh-scifi-theme", "inject": [] },
+  "client": { "platform": "web" }
+}
